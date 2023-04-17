@@ -13,40 +13,43 @@ justify-content : space-between;
 align-items: center;
 padding: 20px 0;
 `
+const Logo = styled.img`
+height: 50px;
+`
 
 const Links = styled.div`
 display: flex;
 align-items:center;
-gap:20px
+gap:20px;
 `
 
-const Logo = styled.img`
-height: 50px
-`
+
 
 const Icons = styled.div`
 display: flex;
 align-items:center;
-gap:20px
-
+gap:20px;
 `
 
 const Icon = styled.img`
 width: 20px;
 cursor: pointer;
-
 `
 
 const Button = styled.button`
 width: 100px;
 padding:10px;
 background-color:#ffbd59;
+border: none;
+color:white;
+border-radius: 3px;
+cursor: pointer;
 `
 
 const List = styled.ul`
 display: flex;
-gap: 20px;
-list-style:none
+gap: 20px ;
+list-style: none;
 `
 
 const ListItem = styled.li`

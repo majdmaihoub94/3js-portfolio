@@ -1,3 +1,24 @@
 body {
   margin: 0 !important;
+  font-family: "arial";
+}
+
+.active {
+  position: relative !important;
+  color: #ffbd59 !important;
+
+  &:before {
+    content: "" !important;
+    position: absolute !important;
+    bottom: 0 !important;
+    left: -20px !important;
+    transform: translateX(-50%) !important;
+    width: 4px !important;
+    height: 100% !important;
+    background-color: #ffbd59 !important;
+  }
+
+  > * {
+    color: #ffbd59 !important;
+  }
 }

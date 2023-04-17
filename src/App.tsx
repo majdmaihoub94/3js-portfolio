@@ -4,6 +4,8 @@ import Hero from './components/Hero'
 import Who from './components/Who'
 import Work from './components/Work'
 import styled from 'styled-components'
+import './app.scss'
+import Experience from './components/Experince'
 
 const Container = styled.div`
 height: 100vh;
@@ -27,6 +29,7 @@ function App() {
     <Container >
       <Hero />
       <Who />
+      <Experience />
       <Work />
       <Contact />
 

@@ -1,0 +1,11 @@
+Model Information:
+* title:	Nerd
+* source:	https://sketchfab.com/3d-models/nerd-7aaaf7aca07f438aa8ac20ad02317b5e
+* author:	Space Oddity (https://sketchfab.com/spaceoddity)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Nerd" (https://sketchfab.com/3d-models/nerd-7aaaf7aca07f438aa8ac20ad02317b5e) by Space Oddity (https://sketchfab.com/spaceoddity) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
